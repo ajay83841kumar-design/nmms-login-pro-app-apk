@@ -12,6 +12,12 @@
         "Allowoffline": false
     },
     {
+        "device_id": "1b75d65fba7cba72",
+        "key": "AK5511",
+        "expirydate": "15-05-2026",
+        "Allowoffline": false
+    },
+    {
         "device_id": "df23cfc6b95a9102",
         "key": "abcde",
         "expirydate": "25-08-2026",
