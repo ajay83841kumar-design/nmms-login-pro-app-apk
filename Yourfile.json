@@ -34,5 +34,11 @@
         "key": "HUR4537",
         "expirydate": "22-05-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7de00f361cbdd65f",
+        "key": "HUR455",
+        "expirydate": "21-06-2026",
+        "Allowoffline": false
     }
 ]
