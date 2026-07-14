@@ -118,5 +118,11 @@
         "key": "AK1144",
         "expirydate": "20-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a690af3f61ca0eee",
+        "key": "AK2255",
+        "expirydate": "20-07-2026",
+        "Allowoffline": false
     }
 ]
