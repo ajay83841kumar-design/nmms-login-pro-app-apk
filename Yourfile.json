@@ -130,5 +130,11 @@
         "key": "AK2266",
         "expirydate": "18-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3614665dad69b47c",
+        "key": "AK2277",
+        "expirydate": "26-07-2026",
+        "Allowoffline": false
     }
 ]
