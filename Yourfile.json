@@ -166,5 +166,11 @@
         "key": "AK3366",
         "expirydate": "15-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "eca5ea45ca488e4d",
+        "key": "RAH123",
+        "expirydate": "15-11-2026",
+        "Allowoffline": false
     }
 ]
