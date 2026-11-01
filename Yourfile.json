@@ -184,5 +184,11 @@
         "key": "RH111",
         "expirydate": "04-11-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e92af6e7e7c7faee",
+        "key": "RH1122",
+        "expirydate": "16-11-2026",
+        "Allowoffline": false
     }
 ]
